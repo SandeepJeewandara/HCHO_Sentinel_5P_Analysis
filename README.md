@@ -1,5 +1,7 @@
 # Analyzing Tropospheric Formaldehyde (HCHO) Gas in Sri Lanka
 
+![HCHO Monitoring Dashboard](https://github.com/SandeepJeewandara/Project_SCAMS/assets/137886591/a4fc2b77-9c37-4f80-b492-8415639ed77e)
+
 ## Introduction
 This repository contains a project focused on analyzing tropospheric formaldehyde (HCHO) levels in seven cities in Sri Lanka using data from the Sentinel-5P satellite. The project aims to uncover trends in air quality, pinpoint possible pollution sources, and create predictive models to project future HCHO levels.
 
@@ -29,6 +31,8 @@ The dataset underwent preprocessing to handle missing values, outliers, and form
 - Correlation analysis with external factors suggests relationships between HCHO levels and weather variables.
 - COVID-19 lockdown impact analysis shows decreased HCHO levels in certain cities during the lockdown period.
 - ARIMA model predicts future HCHO levels with evaluation metrics.
+
+![HCHO Changes](https://github.com/SandeepJeewandara/Project_SCAMS/assets/137886591/3e6a46d1-ecc4-403c-ae65-0f8e8f40cf08)
 
 ## Power BI Visualization
 Preprocessed data was exported to Power BI for interactive visualization. The Power BI dashboard allows for dynamic exploration of HCHO trends, correlation analysis, and geographical mapping of data.
